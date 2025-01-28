@@ -5,11 +5,11 @@ repo: Uptime # The name of this repository
 sites:
   - name: BoostCode
     url: https://boostcode.net
-  - name: Ultimate: Danish Calendar
+  - name: Ultimate, Danish Calendar
     url: https://ultimate.dk/events-og-resultater
-  - name: Viamap: Falck map - Vejhjælp
+  - name: Viamap, Falck Map, Vejhjælp
     url: https://app.viamap.net/iframe/variant?id=97c82837-9e45-48f9-a910-15c57164db3c
-  - name: Viamap: Map Data
+  - name: Viamap, Map Data
     url: https://app.viamap.net/datasaet
   - name: BoostMap
     url: https://boostmap.net
