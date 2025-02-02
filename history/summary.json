@@ -42,19 +42,19 @@
     "url": "https://app.viamap.net/iframe/variant?id=97c82837-9e45-48f9-a910-15c57164db3c",
     "icon": "https://icons.duckduckgo.com/ip3/app.viamap.net.ico",
     "slug": "viamap-falck-map-vejhjaelp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2730,
-    "timeDay": 2188,
-    "timeWeek": 2730,
-    "timeMonth": 2730,
-    "timeYear": 2730,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2798,
+    "timeDay": 2617,
+    "timeWeek": 2798,
+    "timeMonth": 2798,
+    "timeYear": 2798,
     "dailyMinutesDown": {
-      "2025-02-02": 0
+      "2025-02-02": 9
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://app.viamap.net/datasaet",
     "icon": "https://icons.duckduckgo.com/ip3/app.viamap.net.ico",
     "slug": "viamap-map-data",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 97,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1205,
+    "timeDay": 4101,
+    "timeWeek": 1205,
+    "timeMonth": 1205,
+    "timeYear": 1205,
     "dailyMinutesDown": {
-      "2025-02-02": 0
+      "2025-02-02": 10
     }
   },
   {
