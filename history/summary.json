@@ -22,18 +22,19 @@
     "url": "https://ultimate.dk/events-og-resultater",
     "icon": "https://icons.duckduckgo.com/ip3/ultimate.dk.ico",
     "slug": "ultimate-danish-calendar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.82%",
-    "time": 1400,
-    "timeDay": 2201,
-    "timeWeek": 1671,
-    "timeMonth": 1374,
-    "timeYear": 1400,
+    "time": 1387,
+    "timeDay": 1382,
+    "timeWeek": 1578,
+    "timeMonth": 1359,
+    "timeYear": 1387,
     "dailyMinutesDown": {
+      "2025-03-02": 0,
       "2025-02-03": 24,
       "2025-01-29": 62
     }
@@ -52,7 +53,7 @@
     "time": 3553,
     "timeDay": 2997,
     "timeWeek": 2579,
-    "timeMonth": 3716,
+    "timeMonth": 3830,
     "timeYear": 3553,
     "dailyMinutesDown": {
       "2025-02-11": 22
@@ -72,7 +73,7 @@
     "time": 426,
     "timeDay": 93,
     "timeWeek": 101,
-    "timeMonth": 513,
+    "timeMonth": 141,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-02-11": 22
