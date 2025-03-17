@@ -88,18 +88,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/boostmap.net.ico",
     "slug": "boost-map",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 1047,
     "timeDay": 969,
     "timeWeek": 987,
     "timeMonth": 1084,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2025-03-17": 33
+      "2025-03-17": 24
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "https://birdmoves.com",
     "icon": "https://icons.duckduckgo.com/ip3/birdmoves.com.ico",
     "slug": "bird-moves",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 751,
     "timeDay": 781,
     "timeWeek": 776,
     "timeMonth": 737,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-17": 33
+      "2025-03-17": 24
     }
   },
   {
