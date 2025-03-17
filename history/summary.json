@@ -4,19 +4,19 @@
     "url": "https://boostcode.net",
     "icon": "https://icons.duckduckgo.com/ip3/boostcode.net.ico",
     "slug": "boost-code",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 985,
     "timeDay": 1042,
     "timeWeek": 1020,
     "timeMonth": 966,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2025-03-17": 15
+      "2025-03-17": 0
     }
   },
   {
@@ -33,7 +33,7 @@
     "time": 1523,
     "timeDay": 1854,
     "timeWeek": 2593,
-    "timeMonth": 1624,
+    "timeMonth": 1649,
     "timeYear": 1523,
     "dailyMinutesDown": {
       "2025-02-03": 24,
@@ -87,19 +87,19 @@
     "url": "https://boostmap.net",
     "icon": "https://icons.duckduckgo.com/ip3/boostmap.net.ico",
     "slug": "boost-map",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1053,
     "timeDay": 1069,
     "timeWeek": 1017,
     "timeMonth": 1100,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2025-03-17": 15
+      "2025-03-17": 0
     }
   },
   {
@@ -125,19 +125,19 @@
     "url": "https://birdmoves.com",
     "icon": "https://icons.duckduckgo.com/ip3/birdmoves.com.ico",
     "slug": "bird-moves",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 752,
     "timeDay": 847,
     "timeWeek": 791,
     "timeMonth": 739,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-03-17": 15
+      "2025-03-17": 0
     }
   },
   {
