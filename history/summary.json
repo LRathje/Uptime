@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/boostcode.net.ico",
     "slug": "boost-code",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 986,
     "timeDay": 1035,
     "timeWeek": 1019,
     "timeMonth": 967,
     "timeYear": 986,
-    "dailyMinutesDown": {
-      "2025-03-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ultimate, Danish Calendar",
@@ -87,19 +85,19 @@
     "url": "https://boostmap.net",
     "icon": "https://icons.duckduckgo.com/ip3/boostmap.net.ico",
     "slug": "boost-map",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1053,
-    "timeDay": 1069,
-    "timeWeek": 1017,
-    "timeMonth": 1100,
-    "timeYear": 1053,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 1048,
+    "timeDay": 969,
+    "timeWeek": 990,
+    "timeMonth": 1088,
+    "timeYear": 1048,
     "dailyMinutesDown": {
-      "2025-03-17": 11
+      "2025-03-17": 24
     }
   },
   {
@@ -125,19 +123,19 @@
     "url": "https://birdmoves.com",
     "icon": "https://icons.duckduckgo.com/ip3/birdmoves.com.ico",
     "slug": "bird-moves",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 752,
-    "timeDay": 847,
-    "timeWeek": 791,
-    "timeMonth": 739,
-    "timeYear": 752,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 751,
+    "timeDay": 796,
+    "timeWeek": 780,
+    "timeMonth": 737,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-17": 11
+      "2025-03-17": 24
     }
   },
   {
