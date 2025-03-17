@@ -4,9 +4,9 @@
     "url": "https://boostcode.net",
     "icon": "https://icons.duckduckgo.com/ip3/boostcode.net.ico",
     "slug": "boost-code",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1019,
     "timeMonth": 967,
     "timeYear": 986,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   },
   {
     "name": "Ultimate, Danish Calendar",
