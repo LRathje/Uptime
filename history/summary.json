@@ -33,7 +33,7 @@
     "time": 1553,
     "timeDay": 2763,
     "timeWeek": 1716,
-    "timeMonth": 1777,
+    "timeMonth": 1813,
     "timeYear": 1553,
     "dailyMinutesDown": {
       "2025-03-21": 17,
@@ -126,9 +126,9 @@
     "url": "https://birdmoves.com",
     "icon": "https://icons.duckduckgo.com/ip3/birdmoves.com.ico",
     "slug": "bird-moves",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -138,6 +138,7 @@
     "timeMonth": 740,
     "timeYear": 750,
     "dailyMinutesDown": {
+      "2025-03-25": 0,
       "2025-03-17": 24
     }
   },
@@ -154,7 +155,7 @@
     "uptimeYear": "100.00%",
     "time": 575,
     "timeDay": 728,
-    "timeWeek": 580,
+    "timeWeek": 570,
     "timeMonth": 599,
     "timeYear": 575,
     "dailyMinutesDown": {}
