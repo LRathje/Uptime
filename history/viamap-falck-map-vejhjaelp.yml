@@ -1,7 +1,7 @@
 url: https://app.viamap.net/iframe/variant?id=97c82837-9e45-48f9-a910-15c57164db3c
-status: down
-code: 500
-responseTime: 1386
-lastUpdated: 2025-09-13T02:05:56.647Z
+status: up
+code: 200
+responseTime: 3143
+lastUpdated: 2025-09-13T02:33:46.448Z
 startTime: 2025-01-28T12:09:32.540Z
 generator: Upptime <https://github.com/upptime/upptime>
