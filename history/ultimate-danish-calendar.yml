@@ -1,7 +1,7 @@
 url: https://ultimate.dk/events-og-resultater
-status: up
-code: 200
-responseTime: 937
-lastUpdated: 2025-11-19T23:06:39.232Z
+status: down
+code: 502
+responseTime: 515
+lastUpdated: 2025-11-20T12:29:24.795Z
 startTime: 2025-01-28T12:09:30.710Z
 generator: Upptime <https://github.com/upptime/upptime>
