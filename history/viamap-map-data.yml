@@ -1,7 +1,7 @@
 url: https://app.viamap.net/datasaet
-status: down
-code: 500
-responseTime: 420
-lastUpdated: 2026-06-04T21:53:31.371Z
+status: up
+code: 200
+responseTime: 7460
+lastUpdated: 2026-06-04T22:29:23.341Z
 startTime: 2025-01-28T12:09:37.692Z
 generator: Upptime <https://github.com/upptime/upptime>
