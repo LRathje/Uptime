@@ -31,16 +31,16 @@
     "url": "https://ultimate.dk/events-og-resultater",
     "icon": "https://icons.duckduckgo.com/ip3/ultimate.dk.ico",
     "slug": "ultimate-danish-calendar",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "98.54%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "98.53%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.32%",
-    "time": 1511,
-    "timeDay": 1077,
-    "timeWeek": 2388,
-    "timeMonth": 1933,
+    "time": 1509,
+    "timeDay": 1203,
+    "timeWeek": 2316,
+    "timeMonth": 1925,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2025-07-07": 19,
@@ -117,7 +117,7 @@
       "2026-06-23": 17,
       "2026-06-25": 45,
       "2026-06-26": 45,
-      "2026-06-27": 33
+      "2026-06-27": 34
     }
   },
   {
@@ -264,7 +264,7 @@
       "2026-01-05": 133,
       "2026-02-13": 21,
       "2026-02-15": 22,
-      "2026-06-27": 1413,
+      "2026-06-27": 1414,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
