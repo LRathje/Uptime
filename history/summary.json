@@ -32,9 +32,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultimate.dk.ico",
     "slug": "ultimate-danish-calendar",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "98.53%",
+    "uptime": "99.49%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "98.54%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.32%",
     "time": 1509,
@@ -117,7 +117,7 @@
       "2026-06-23": 17,
       "2026-06-25": 45,
       "2026-06-26": 45,
-      "2026-06-27": 34
+      "2026-06-27": 32
     }
   },
   {
@@ -249,11 +249,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/birdmoves.com.ico",
     "slug": "bird-moves",
     "status": "down",
-    "uptime": "93.47%",
+    "uptime": "93.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.78%",
+    "uptimeYear": "90.77%",
     "time": 719,
     "timeDay": 0,
     "timeWeek": 0,
@@ -264,7 +264,8 @@
       "2026-01-05": 133,
       "2026-02-13": 21,
       "2026-02-15": 22,
-      "2026-06-27": 1414,
+      "2026-06-28": 25,
+      "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -317,7 +318,6 @@
     "timeMonth": 574,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-06-28": 18,
       "2025-07-23": 29,
       "2025-09-09": 25
     }
