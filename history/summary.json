@@ -261,7 +261,7 @@
     "uptime": "92.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.58%",
+    "uptimeMonth": "50.40%",
     "uptimeYear": "88.75%",
     "time": 757,
     "timeDay": 1675,
@@ -322,20 +322,21 @@
     "url": "https://app.birdmoves.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.birdmoves.com.ico",
     "slug": "bird-moves-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 718,
-    "timeDay": 724,
-    "timeWeek": 581,
-    "timeMonth": 566,
-    "timeYear": 749,
+    "timeDay": 542,
+    "timeWeek": 554,
+    "timeMonth": 559,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-07-23": 29,
-      "2025-09-09": 25
+      "2025-09-09": 25,
+      "2026-07-20": 0
     }
   }
 ]
